@@ -31,7 +31,9 @@ This project contains a set of automation scripts for basic system setup, softwa
 git clone https://github.com/NumanAsghar901/Shell-Scripting.git
 cd Shell-Scripting/
 
-## 2. Make Scripts Executable
+---
+
+### 2. Make Scripts Executable
 
 ```bash
 chmod +x menu.sh software_installation.sh system_log.sh
