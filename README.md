@@ -28,5 +28,16 @@ This project contains a set of automation scripts for basic system setup, softwa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/NumanAsghar901/Shell-Scripting.git
+cd Shell-Scripting/
+
+### 2. Make Scripts Executable
+
+```bash
+chmod +x menu.sh software_installation.sh system_log.sh
+
+### 2. Make Scripts Executable
+
+```bash
+Run the Main Menu
+
